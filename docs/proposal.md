@@ -40,3 +40,15 @@ how the agent tackles a variety of scenarios in parkour. It would exceed my expe
 2.5 Appointment with the Instructor
 
 Appointment date and time: Thursday 10/28 at 3:45 PM
+Patrick Kyle Jang is inviting you to a scheduled Zoom meeting.
+
+Topic: Patrick Kyle Jang's Zoom Meeting
+Time: Oct 28, 2021 03:45 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://zoom.us/j/95428036017?pwd=UjQwRDBZRkhPSHF0dS9wRzlkQjMyUT09
+
+Meeting ID: 954 2803 6017
+Passcode: w9hDmb
+
+
