@@ -11,31 +11,19 @@ Reports:
 - [Status](status.html)
 - [Final](final.html)
 
-<h1>Parkour using Observation(and Video Producer)</h1>
-What's Markdown (`.md`)?
-
-Markdown is markup that lets you write hypertext (HTML) documents
-in easy-to-read and easy-to-write plain text.
-No angle brackets `<></>` required for
-paragraphs, lists, blockquotes, tables, etc.
-
-
-This is a paragraph (in Markdown). Some more
-text here.
-
-This is another paragraph.
-
-This is a list:
-
-- Orange
-- Apple
-- Blueberry
-
-$$x^2 = y^2$$
+<h1>Parkour using Observations(and Video Producer)</h1>
+<p>For this project, I will be implementing different ways for a Minecraft agent to 
+  traverse a series of treacherous jumps using the Malmo built in Video Producer feature as well
+  as grid observations. For the first part of testing, I will mostly be experimenting with the basic 
+  movement functions built into ContinuousMovementCommands and DiscreteMovementCommands. For the second
+  half of testing, I will try to incorporate object detection using Video Producers.
+</p>
 
 
-Just getting started with Markdown?
-See the [HTML <-> Markdown Quick Reference (Cheat Sheet)][quickref].
+Here is the obstacle course for basic movement.
+![image](https://user-images.githubusercontent.com/56807118/142640933-523f8975-2592-4ea7-9d44-6cb110c6c55f.png)
 
 
-[quickref]: https://github.com/mundimark/quickrefs/blob/master/HTML.md
+
+A future test for the agent that will include turning and hopefully sprint jumping.
+![image](https://user-images.githubusercontent.com/56807118/142640975-34f8b0be-9de3-42b2-bd5b-b84c0e95bdba.png)
