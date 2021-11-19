@@ -1,9 +1,4 @@
----
-layout: default
-title:  Home
----
-
-Source code: https://github.com/pkjang/BubbleTea (_fix this_)
+Source code: https://github.com/pkjang/BubbleTea
 
 Reports:
 
